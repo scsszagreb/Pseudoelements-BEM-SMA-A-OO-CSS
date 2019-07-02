@@ -20,7 +20,7 @@ Demos and slides for our 5th meetup [S(CSS)_Zagreb meetup](https://www.meetup.co
   * Explore all of the examples
     * [CSS pseudo elements examples](https://codepen.io/collection/XvJmMY)
    
-  * Check out the code of demo [in this repo](/pseudoelements)
+  * Check out the code of demo [in this repo](https://github.com/tonkec/pure_css_github_graph)
 
 ## BEM|(SMA|A|OO)CSS
   * Check out the presentation
