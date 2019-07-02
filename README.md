@@ -15,10 +15,10 @@ Demos and slides for our 5th meetup [S(CSS)_Zagreb meetup](https://www.meetup.co
 
 ## CSS pseudoelements
   * Check out the presentation
-    * [CSS pseudo-elements](https://slides.com/tonkecpalonkec/css-pseudoelements)
+    * [CSS pseudoelements](https://slides.com/tonkecpalonkec/css-pseudoelements)
 
   * Explore all of the examples
-    * [CSS pseudo elements examples](https://codepen.io/collection/XvJmMY)
+    * [CSS pseudoelements examples](https://codepen.io/collection/XvJmMY)
    
   * Check out the code of demo [in this repo](https://github.com/tonkec/pure_css_github_graph)
 
