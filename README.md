@@ -23,9 +23,7 @@ Demos and slides for our 5th meetup [S(CSS)_Zagreb meetup](https://www.meetup.co
   * Check out the code of demo [in this repo](https://github.com/tonkec/pure_css_github_graph)
 
 ## BEM|(SMA|A|OO)CSS
-  * Check out the presentation
-    * 
-
+  * [Check out the presentation](https://drive.google.com/file/d/12OD7_b6H_02f0f3txxhSSGvlnj_Bg66-/view)
 
 ### Do you want to speak on our next meetup?
 
